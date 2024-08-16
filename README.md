@@ -8,10 +8,6 @@ This project is a comprehensive implementation of Principal Component Analysis (
 - **Kernel PCA**: Dive into non-linear data transformations with Kernel PCA, particularly effective on datasets where linear PCA falls short.
 - **Image Processing**: Implement PCA and Kernel PCA for tasks like image compression and denoising, analyzing how these algorithms help in reducing data size while maintaining quality.
 
-## Notebook Example
-
-For a complete example of using the PCA algorithm on synthetic datasets and visualizing the results, refer to the provided notebook example_notebook.ipynb.
-
 ## Usage
 To use the project, Make sure to install necessary dependencies by running pip install numpy matplotlib before executing the code in the notebook.
 
